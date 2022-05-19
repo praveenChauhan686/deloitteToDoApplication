@@ -18,7 +18,7 @@ public class TodoApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 
-		log.info("Deloitte Task Card Application is initiated...");
+		log.info("Deloitte Task Card Application is being initiated...");
 		SpringApplication.run(TodoApplication.class, args);
 
 	}
